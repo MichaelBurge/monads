@@ -11,7 +11,8 @@ var metaphors = [
     "algebraic theories",
     "classes of computational effect",
     "closure operators",
-    "adjunctions"
+    "adjunctions",
+    "monads"
     ];
 
 var discoverNewMetaphor = function() {
