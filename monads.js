@@ -12,7 +12,9 @@ var metaphors = [
     "classes of computational effect",
     "closure operators",
     "adjunctions",
-    "monads"
+    "monads",
+    "a monoid with smart pipes",
+    "composable functions with external semantics"
     ];
 
 var discoverNewMetaphor = function() {
