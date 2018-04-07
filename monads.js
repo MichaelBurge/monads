@@ -7,7 +7,11 @@ var metaphors = [
     "data workflows",
     "interpreters for the Free Monad",
     "a typeclass with laws",
-    "strong lax monoidal functors"
+    "strong lax monoidal functors",
+    "algebraic theories",
+    "classes of computational effect",
+    "closure operators",
+    "adjunctions"
     ];
 
 var discoverNewMetaphor = function() {
