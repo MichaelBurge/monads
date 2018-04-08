@@ -14,7 +14,8 @@ var metaphors = [
     "adjunctions",
     "monads",
     "a monoid with smart pipes",
-    "composable functions with external semantics"
+    "composable functions with external semantics",
+    "programmable semicolons"
     ];
 
 var discoverNewMetaphor = function() {
